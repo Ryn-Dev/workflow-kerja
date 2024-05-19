@@ -12,3 +12,5 @@ git checkout feat/login ==> pindah branch ke feat/login
 setelah pindah branch maka silahkan lakukan pembuatan file baru 
 untuk membuat fitur di dalam project
 
+dan jangan lupa untuk pindah lagi ke (main atau master) untuk push dulu base project main nya
+
