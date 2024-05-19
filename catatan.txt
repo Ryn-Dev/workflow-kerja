@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m "feat: master project"  ==> untuk inisial base project (main atau master)
+
+jika ingin buat sebuah fitur dan masukin ke master maka kerjakan di branch repository 
+yang dibuat sebelum di merge ke (main/master)
+
+git branch feat/login  ==> membuat branch baru
+git branch ==> cek branch yang ada
+git checkout feat/login ==> pindah branch ke feat/login
+
+setelah pindah branch maka silahkan lakukan pembuatan file baru 
+untuk membuat fitur di dalam project
+
